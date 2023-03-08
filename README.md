@@ -41,8 +41,15 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 [Andrdoid Kotline Debugging GIF](https://i.imgur.com/zhgAUuq.gif)
 
-
 GIF created with [Kap](https://getkap.co/) for macOS
+
+## Video Demo
+
+Here's a video / GIF that demos all of the app's implemented features:
+
+<img src='https://i.imgur.com/zhgAUuq.gif' title='Video Demo' width='' alt='Video Demo' />
+
+GIF created with **your chosen GIF tool**
 
 ## Notes
 
@@ -50,7 +57,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **2023** **Lubna Asha**
+Copyright **2023** **LUBNA ASHA**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
