@@ -39,9 +39,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/Z9cildT.gif' title='Android Kotlin Debugging' width='200' alt='Android Kotlin Debugging'/>
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif]' title='Video Demo' width='200' alt='Android Kotlin Debugging'/>
 
-GIF created with **[Kap](https://getkap.co/) for macOSl**
+GIF created with [Kap](https://getkap.co/) for macOS**
 
 ## Notes
 
